@@ -1,4 +1,4 @@
-You can run in foreground with
+You can run it in foreground with
 ```bash
-python3 keylogger&
+python3 keylogger.py&
 ```
